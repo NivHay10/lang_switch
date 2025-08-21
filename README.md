@@ -1,6 +1,4 @@
-# lang_switch
-
-# EN↔HE Layout Flip (AutoHotkey v2)
+# lang_switch: EN↔HE Layout Flip (AutoHotkey v2)
 
 Flip the **currently selected text** between US-English and Hebrew keyboard layouts and type it back **in place**. Smartly fixes **CapsLock** for Hebrew and switches Windows input language via **Win+Space** **only when needed**. Works anywhere on Windows that accepts typed text.
 
