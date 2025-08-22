@@ -10,7 +10,7 @@ Flip the **currently selected text** between US-English and Hebrew keyboard layo
 * **Auto direction**: Detects whether to convert EN→HE or HE→EN using simple heuristics.
 * **CapsLock fix**: Turns off CapsLock when the target text is Hebrew.
 * **Language switch**: Triggers Win+Space only if the current OS layout doesn’t match the converted text.
-* **Hotkeys**: `Ctrl+1` and `Ctrl+T`.
+* **Hotkeys**: `Ctrl+1`.
 * **Explicit maps**: Uses deterministic character maps (includes uppercase handling and Hebrew final forms).
 
 ---
